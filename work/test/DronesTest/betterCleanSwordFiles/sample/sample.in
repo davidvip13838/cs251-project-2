@@ -1,0 +1,12 @@
+6 5
+0, 3, 300, 299, 5, 200, 20, "Katana", "Cool Japanese sword", "Works well when speed is necessary", "CURVED_DECORATIVE_JAPANESE"
+4, 5, 1000, 900, 20, 1000, 1, "Battering Ram", "Hunk of tree", "Use when hinges are rusted shut", "TREE_WITH_FRESH_SHAVE"
+-1, 8, 200, 200, 7, 50, 100, "Rapier", "Death by paper cuts", "Most useful when trying to get that perfect golden brown marshmallow but don't want to be singed by the fire", "SHISH_KABOB"
+-1, 6, 100, 80, 14, 150, 10, "Claymore", "Great sword!", "My best fireplace decoration", "SCOTTISH_VARIANT"
+-1, 8, 700, 700, 2, 600, 72, "Netherite Pickaxe", "Surprisingly effective tool", "No enchantments yet -- not sure where the wizards are in this world.", "MINECRAFT_PROPRIETARY"
+-1, 2, 20, 3, 2, 20, 72, "Wooden Pickaxe", "Surprisingly ineffective... thing", "Good for 1 thing: getting enough stone to make a stone pickaxe", "MINECRAFT_PROPRIETARY_BAD"
+0, 200, 50, 100, "SHISH_KABOB"
+1, 100, 150, 10, "SCOTTISH_VARIANT"
+1, 700, 600, 72, "MINECRAFT_PROPRIETARY"
+3, 20, 20, 72, "MINECRAFT_PROPRIETARY_BAD"
+6, 1000, 1000, 1, "TREE_WITH_FRESH_SHAVE"
