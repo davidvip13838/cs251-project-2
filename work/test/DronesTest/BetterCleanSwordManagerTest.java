@@ -23,7 +23,7 @@ import static org.junit.jupiter.params.provider.Arguments.arguments;
  * Tests BetterCleanSwordManager
  */
 public class BetterCleanSwordManagerTest {
-    final static String prefix = System.getenv("ASNLIB") + "/test/DronesTest/betterCleanSwordFiles/";
+    final static String prefix =  "work/test/DronesTest/betterCleanSwordFiles/";
     final static File[] folderPaths = {new File(prefix + "sample"),
             new File(prefix + "manual"),
 //            new File(prefix + "generated")

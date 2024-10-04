@@ -21,7 +21,7 @@ public class LocalTesting {
         //current working directory is "Project1/", so the following path needs to be from
         //  "Project1/" to the test file.  For example, if sample.in is at "Project1/src/Drones/sample.in",
         //  you would put the following: "src/Drones/sample.in"
-        String filename = "sample.in";
+        String filename = "work/test/DronesTest/betterCleanSwordFiles/sample/sample.in";
 
         //If you wanted to list all files in a folder (ex. multiple test files), you could do something like this:
         //File folder = new File("src/Drones/testingFolder");

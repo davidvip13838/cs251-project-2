@@ -1,5 +1,7 @@
 package Items.Types;
 
+import Items.Sword;
+
 import java.util.Objects;
 
 /**
